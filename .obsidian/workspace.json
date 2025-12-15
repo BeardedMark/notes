@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "База IT-знаний/Активация виндовс.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Активация виндовс"
             }
           }
         ],
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "База IT-знаний/Активация виндовс.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура README"
+              "title": "Структура Активация виндовс"
             }
           },
           {
@@ -200,6 +200,18 @@
   },
   "active": "9ea1d83a61bff397",
   "lastOpenFiles": [
+    "База IT-знаний/Коды ошибок.md",
+    "База IT-знаний/Активация виндовс.md",
+    "База IT-знаний/Node.js/Создание и использование npm пакета.md",
+    "База IT-знаний/Git/Команды.md",
+    "База IT-знаний/IDE/PhpStorm",
+    "База IT-знаний/IDE",
+    "База IT-знаний/IDE/CursorAI/Работа с кодом.md",
+    "База IT-знаний/IDE/CursorAI/Настройки.md",
+    "База IT-знаний/IDE/CursorAI/Команды чата.md",
+    "База IT-знаний/IDE/CursorAI/Горячие клавиши.md",
+    "README.md",
+    "База IT-знаний/IDE/CursorAI",
     "DNL/Достижения.md",
     "DNL/Исполнительный отчет.md",
     "DNL/Метрики направлений.md",
@@ -207,7 +219,6 @@
     "DNL/События за 2025.md",
     "DNL/Телеграм бот.md",
     "DNL/Технологии.md",
-    "README.md",
     "Статьи/Инструменты разработчика.md",
     "Статьи/Бот для Telegram.md",
     "Линое/Подарки.md",
@@ -221,14 +232,6 @@
     "Проекты/Phasmophobia/Без названия.base",
     "Проекты/Phasmophobia/Без названия.canvas",
     "Проекты/Библиотека разметки Fibtrap/Общая заметка.md",
-    "Проекты/Веб-публикация 1С/Ресурсы/Чек-лист.md",
-    "Без названия.md",
-    "Статьи/Символы.md",
-    "Проекты/Веб-публикация 1С/Ресурсы/Помойка.md",
-    "Проекты/Веб-публикация 1С/Ресурсы/Задачи.md",
-    "Проекты/Веб-публикация 1С/Ресурсы/Ссылки.md",
-    "База IT-знаний/Laravel/Laravel Skill List.md",
-    "Проекты/Веб-публикация 1С/Ресурсы/TaskTracker.md",
     "Проекты/Веб-публикация 1С/Без названия.canvas",
     "База IT-знаний/Vue.js",
     "База IT-знаний/QR-коды",
@@ -236,9 +239,6 @@
     "База IT-знаний/Backend",
     "Игры/Phasmophobia",
     "База IT-знаний/Arduino/C++",
-    "База IT-знаний/Arduino/Модули",
-    "Игры/Phasmophobia/Устройства",
-    "Игры/Phasmophobia/Квест",
     "DNL/Без названия.canvas",
     "Ресурсы/Без названия.canvas",
     "API Scheme.canvas"
