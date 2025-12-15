@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiAreaChart",
+      "LiLibrary",
+      "LiWorkflow",
+      "LiHelp",
+      "LiMoreHorizontal"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Расширение": "LiDatabase",
+  "Расширение/Справочники": "LiTable2",
+  "Расширение/Документы": "LiFileText",
+  "Расширение/Регистры накоплений": "LiSquareStack",
+  "Расширение/Регистры сведений": "LiTable",
+  "Расширение/Перечисления": "LiCurlyBraces",
+  "Расширение/Константы": "LiLayoutDashboard",
+  "Расширение/Http-сервисы": "LiEarth",
+  "Расширение/Общие модули": "LiCode",
+  "Представления": "LiAppWindow",
+  "Расширение/Обработки": "LiWorkflow",
+  "Ресурсы": "LiLibrary",
+  "Описание": "LiHelp",
+  "Ресурсы/TaskTracker.md": "LiAreaChart"
+}

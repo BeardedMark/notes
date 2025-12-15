@@ -1,0 +1,4 @@
+---
+Table: "[[Enemies]]"
+Traits: []
+---

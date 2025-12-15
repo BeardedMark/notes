@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Responce-Type": "text",
+    "path": "text",
+    "Authorization": "multitext",
+    "isCustom": "checkbox",
+    "Value": "text",
+    "Custom": "checkbox"
+  }
+}
