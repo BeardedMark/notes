@@ -4,42 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2b18d769f2c00928",
+        "id": "3087a1aa9e0b403a",
         "type": "tabs",
         "children": [
           {
-            "id": "900353cc73ade1f4",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Проекты/Phasmophobia/Взаимодействия.canvas",
-                "viewState": {
-                  "x": 1963.5786951512812,
-                  "y": -171.69414932293768,
-                  "zoom": -0.47234832400086785
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Взаимодействия"
-            }
-          },
-          {
-            "id": "9ea1d83a61bff397",
+            "id": "93f58be2b443cf87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Статьи/Символы.md",
-                "mode": "source",
+                "file": "База IT-знаний/Laravel/Частые команды.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Символы"
+              "title": "Частые команды"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#️⃣",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,8 +74,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,47 +180,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1e4de59e329b06c",
+  "active": "95b8a655ef8caaa9",
   "lastOpenFiles": [
-    "Статьи/Расширение для Chrome.md",
-    "Статьи/Символы.md",
-    "Проекты/README.md",
-    "Статьи/Технологический стек.md",
-    "Проекты/Вебзитка.md",
+    "База IT-знаний/Laravel/Запуск проекта из репозитория.md",
+    "База IT-знаний/Laravel/Частые команды.md",
     "README.md",
-    "Проекты/Библиотека разметки Fibtrap/Общая заметка.md",
-    "Проекты/Библиотека разметки Fibtrap/Без названия.md",
-    "Проекты/Браузерна ММО игра/Все страницы.base",
-    "Проекты/Phasmophobia/Взаимодействия.canvas",
-    "База IT-знаний/README.md",
-    "База IT-знаний/Arduino/ESP32/Bluetooth.md",
-    "База IT-знаний/Arduino/ESP32/Монитор порта.md",
-    "База IT-знаний/Arduino/Модули/LED Индикаторы.md",
-    "База IT-знаний/Arduino/Модули/Лазер.md",
-    "База IT-знаний/Arduino/Модули/Зуммер пассивный.md",
-    "База IT-знаний/Arduino/Модули/Датчик движения.md",
-    "База IT-знаний/Laravel/Запуск репозитория.md",
-    "База IT-знаний/Laravel/Установка среды для разработки.md",
-    "База IT-знаний/Git/Команды.md",
-    "База IT-знаний/Активация виндовс.md",
-    "База IT-знаний/Технологический стек.md",
-    "База IT-знаний/Коды ошибок.md",
     "База IT-знаний/Node.js/Создание и использование npm пакета.md",
+    "База IT-знаний/Node.js/Команды для работы с npm.md",
+    "База IT-знаний/QR-коды/QR-коды.md",
+    "База IT-знаний/Timeweb/Создание нового сайта.md",
+    "База IT-знаний/Timeweb/Crontab задачи.md",
+    "База IT-знаний/Timeweb/Публикация Laravel проекта.md",
+    "База IT-знаний/Технологический стек.md",
+    "База IT-знаний/Laravel/Без названия.md",
+    "База IT-знаний/Timeweb",
+    "Проекты/Phasmophobia/Взаимодействия.canvas",
+    "База IT-знаний/Laravel/Структура директории проекта.md",
+    "База IT-знаний/Laravel/Laravel Skill List.md",
+    "База IT-знаний/Git/Команды.md",
+    "База IT-знаний/Frontend",
+    "База IT-знаний/Backend",
+    "База IT-знаний/CSS/scss шпора.md",
+    "DNL/Достижения.md",
+    "DNL/Исполнительный отчет.md",
+    "DNL/Метрики направлений.md",
+    "DNL/Опрос о руководителях.md",
+    "DNL/События за 2025.md",
+    "DNL/Расширение для Chrome.md",
+    "DNL/Телеграм бот.md",
+    "DNL/Технологии.md",
+    "База IT-знаний/README.md",
+    "База IT-знаний/Коды ошибок.md",
+    "База IT-знаний/Активация виндовс.md",
+    "Проекты/Браузерна ММО игра/Все страницы.base",
     "База IT-знаний/IDE/PhpStorm",
     "База IT-знаний/IDE",
-    "База IT-знаний/IDE/CursorAI/Работа с кодом.md",
-    "База IT-знаний/IDE/CursorAI/Настройки.md",
-    "База IT-знаний/IDE/CursorAI/Команды чата.md",
-    "База IT-знаний/IDE/CursorAI/Горячие клавиши.md",
     "База IT-знаний/IDE/CursorAI",
     "Без названия.canvas",
     "Проекты/Phasmophobia/Без названия.base",
     "Проекты/Веб-публикация 1С/Без названия.canvas",
     "База IT-знаний/Vue.js",
     "База IT-знаний/QR-коды",
-    "Линое",
-    "База IT-знаний/Backend",
-    "Игры/Phasmophobia",
     "DNL/Без названия.canvas",
     "Ресурсы/Без названия.canvas",
     "API Scheme.canvas"
