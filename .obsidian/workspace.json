@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Проекты/Phasmophobia/Без названия.canvas",
+                "file": "Проекты/Phasmophobia/Взаимодействия.canvas",
                 "viewState": {
                   "x": 1963.5786951512812,
                   "y": -171.69414932293768,
@@ -21,7 +21,7 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Без названия"
+              "title": "Взаимодействия"
             }
           },
           {
@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База IT-знаний/README.md",
+                "file": "Проекты/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 287.5
   },
   "right": {
     "id": "05691da88d2ba83f",
@@ -200,20 +200,25 @@
   },
   "active": "9ea1d83a61bff397",
   "lastOpenFiles": [
-    "База IT-знаний/Arduino/ESP32/Bluetooth.md",
+    "README.md",
+    "Проекты/Библиотека разметки Fibtrap/Общая заметка.md",
+    "Проекты/Библиотека разметки Fibtrap/Без названия.md",
+    "Проекты/Браузерна ММО игра/Все страницы.base",
+    "Проекты/Phasmophobia/Взаимодействия.canvas",
+    "Проекты/Вебзитка.md",
+    "Проекты/README.md",
     "База IT-знаний/README.md",
+    "База IT-знаний/Arduino/ESP32/Bluetooth.md",
     "База IT-знаний/Arduino/ESP32/Монитор порта.md",
     "База IT-знаний/Arduino/Модули/LED Индикаторы.md",
     "База IT-знаний/Arduino/Модули/Лазер.md",
     "База IT-знаний/Arduino/Модули/Зуммер пассивный.md",
     "База IT-знаний/Arduino/Модули/Датчик движения.md",
-    "Проекты/Список проектов.md",
     "База IT-знаний/Laravel/Запуск репозитория.md",
     "База IT-знаний/Laravel/Установка среды для разработки.md",
     "База IT-знаний/Git/Команды.md",
     "Статьи/Технологический стек.md",
     "Статьи/Расширение для Chrome.md",
-    "Проекты/Phasmophobia/Без названия.canvas",
     "База IT-знаний/Активация виндовс.md",
     "База IT-знаний/Технологический стек.md",
     "База IT-знаний/Коды ошибок.md",
@@ -224,12 +229,8 @@
     "База IT-знаний/IDE/CursorAI/Настройки.md",
     "База IT-знаний/IDE/CursorAI/Команды чата.md",
     "База IT-знаний/IDE/CursorAI/Горячие клавиши.md",
-    "README.md",
     "База IT-знаний/IDE/CursorAI",
     "DNL/Достижения.md",
-    "DNL/Исполнительный отчет.md",
-    "DNL/Метрики направлений.md",
-    "DNL/Опрос о руководителях.md",
     "Без названия.canvas",
     "Проекты/Phasmophobia/Без названия.base",
     "Проекты/Веб-публикация 1С/Без названия.canvas",
@@ -238,7 +239,6 @@
     "Линое",
     "База IT-знаний/Backend",
     "Игры/Phasmophobia",
-    "База IT-знаний/Arduino/C++",
     "DNL/Без названия.canvas",
     "Ресурсы/Без названия.canvas",
     "API Scheme.canvas"
