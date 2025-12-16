@@ -31,7 +31,7 @@
               "type": "markdown",
               "state": {
                 "file": "База IT-знаний/Laravel/Запуск репозитория.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -198,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95b8a655ef8caaa9",
+  "active": "9ea1d83a61bff397",
   "lastOpenFiles": [
     "База IT-знаний/Laravel/Установка среды для разработки.md",
     "База IT-знаний/Laravel/Запуск репозитория.md",
